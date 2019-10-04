@@ -1,0 +1,2 @@
+# CroudFormation-Template
+AWS　CloudFormationのテンプレートです。
